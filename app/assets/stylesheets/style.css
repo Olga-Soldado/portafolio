@@ -52,10 +52,10 @@ ul li{
     margin: 0 0.75em 0 0.75em;
 }
 
-ul:hover a{
+ul:hover .text{
     color:#999;
 }
-ul:hover a:hover{
+ul:hover .text:hover{
     color: white;
     size: 3rem;
     padding: 5%;
