@@ -36,7 +36,7 @@ border: 0%;}
     background-position: left;
     background-size: cover;
 }
-a{text-decoration: none;
+.text{text-decoration: none;
 color:#999;
 text-transform: none;
 transition: 0.25s ease;}
